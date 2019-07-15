@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\bin\Debug\SearchFight.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\bin\Debug\SearchFight.exe
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\bin\Debug\SearchFight.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\obj\Debug\SearchFight.exe
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\obj\Debug\SearchFight.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight\obj\Debug\SearchFight.csprojResolveAssemblyReference.cache

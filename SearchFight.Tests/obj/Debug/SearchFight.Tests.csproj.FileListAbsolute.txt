@@ -1,0 +1,17 @@
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\SearchFight.Tests.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\SearchFight.Tests.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\SearchFight.Tests.dll.CodeAnalysisLog.xml
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\SearchFight.Tests.dll.lastcodeanalysissucceeded
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\obj\Debug\SearchFight.Tests.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\obj\Debug\SearchFight.Tests.dll
+c:\users\usuario\documents\visual studio 2017\Projects\SearchFight\SearchFight.Tests\obj\Debug\SearchFight.Tests.pdb
